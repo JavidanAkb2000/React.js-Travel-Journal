@@ -1,0 +1,60 @@
+h1, p , h5{
+ margin: 0;
+ font-family: sans-serif;
+}
+
+body{
+    background-color: lightgray;
+}
+
+.heading{
+    background-color: #f02607;
+    padding: 3px;
+    width: 594px;
+    margin-bottom: 10px;
+    text-align: center;
+    color:whitesmoke;
+}
+
+.containerDiv{
+    width:600px;
+    background-color: white;
+   
+    
+    /* margin-bottom: 10px !important; */
+}
+
+.card--image{
+    width: 125px;
+    height: 205px;
+   border-radius: 5px;
+}
+
+.cards{
+  margin-bottom: 30px;
+  padding: 40px;
+}
+
+.cards h1{
+    margin-bottom: 10px;
+}
+
+.cards p{
+    color: gray;
+}
+
+.textContainer{
+    margin-left: 30px;
+    
+    position: relative;
+    width: 400px;
+    height: 165px;
+    margin-left: 150px;
+    padding-top: 25px;
+}
+
+.card-img-div{
+   
+    height: 205px;
+    position: absolute;
+}
